@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/mac/Desktop/EasyMobileUI/DerivedData/EasyMobileUI/Build/Products/Debug-iphonesimulator/EasyMobileUI.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "EasyMobileUI-Swift.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/DerivedData/EasyMobileUI/Build/Products/Debug-iphonesimulator/EasyMobileUI.framework/Headers/EasyMobileUI-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "EasyMobileUI.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EasyMobileUI.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mac/Desktop/EasyMobileUI/DerivedData/EasyMobileUI/Build/Products/Debug-iphonesimulator/EasyMobileUI.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/DerivedData/EasyMobileUI/Build/Intermediates/EasyMobileUI.build/Debug-iphonesimulator/EasyMobileUI.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

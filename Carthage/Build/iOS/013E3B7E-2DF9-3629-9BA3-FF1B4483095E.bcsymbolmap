@@ -1,0 +1,587 @@
+BCSymbolMap Version: 2.0
+-[MWTapDetectingImageView initWithFrame:]
+-[MWTapDetectingImageView initWithImage:]
+-[MWTapDetectingImageView initWithImage:highlightedImage:]
+-[MWTapDetectingImageView touchesEnded:withEvent:]
+-[MWTapDetectingImageView handleSingleTap:]
+-[MWTapDetectingImageView handleDoubleTap:]
+-[MWTapDetectingImageView handleTripleTap:]
+-[MWTapDetectingImageView tapDelegate]
+-[MWTapDetectingImageView setTapDelegate:]
+-[MWTapDetectingImageView .cxx_destruct]
+_OBJC_IVAR_$_MWTapDetectingImageView._tapDelegate
+Apple LLVM version 8.1.0 (clang-802.0.38)
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWTapDetectingImageView.m
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWTapDetectingImageView.h
+-[MWZoomingScrollView initWithPhotoBrowser:]
+-[MWZoomingScrollView dealloc]
+-[MWZoomingScrollView prepareForReuse]
+-[MWZoomingScrollView displayingVideo]
+-[MWZoomingScrollView setImageHidden:]
+-[MWZoomingScrollView setPhoto:]
+-[MWZoomingScrollView displayImage]
+-[MWZoomingScrollView displayImageFailure]
+-[MWZoomingScrollView hideImageFailure]
+-[MWZoomingScrollView setProgressFromNotification:]
+___51-[MWZoomingScrollView setProgressFromNotification:]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[MWZoomingScrollView hideLoadingIndicator]
+-[MWZoomingScrollView showLoadingIndicator]
+-[MWZoomingScrollView initialZoomScaleWithMinScale]
+-[MWZoomingScrollView setMaxMinZoomScalesForCurrentBounds]
+-[MWZoomingScrollView layoutSubviews]
+-[MWZoomingScrollView viewForZoomingInScrollView:]
+-[MWZoomingScrollView scrollViewWillBeginDragging:]
+-[MWZoomingScrollView scrollViewWillBeginZooming:withView:]
+-[MWZoomingScrollView scrollViewDidEndDragging:willDecelerate:]
+-[MWZoomingScrollView scrollViewDidZoom:]
+-[MWZoomingScrollView handleSingleTap:]
+-[MWZoomingScrollView handleDoubleTap:]
+-[MWZoomingScrollView imageView:singleTapDetected:]
+-[MWZoomingScrollView imageView:doubleTapDetected:]
+-[MWZoomingScrollView view:singleTapDetected:]
+-[MWZoomingScrollView view:doubleTapDetected:]
+-[MWZoomingScrollView index]
+-[MWZoomingScrollView setIndex:]
+-[MWZoomingScrollView photo]
+-[MWZoomingScrollView captionView]
+-[MWZoomingScrollView setCaptionView:]
+-[MWZoomingScrollView selectedButton]
+-[MWZoomingScrollView setSelectedButton:]
+-[MWZoomingScrollView playButton]
+-[MWZoomingScrollView setPlayButton:]
+-[MWZoomingScrollView .cxx_destruct]
+_OBJC_IVAR_$_MWZoomingScrollView._index
+_OBJC_IVAR_$_MWZoomingScrollView._photoBrowser
+_OBJC_IVAR_$_MWZoomingScrollView._tapView
+_OBJC_IVAR_$_MWZoomingScrollView._photoImageView
+_OBJC_IVAR_$_MWZoomingScrollView._loadingIndicator
+_OBJC_IVAR_$_MWZoomingScrollView._photo
+_OBJC_IVAR_$_MWZoomingScrollView._loadingError
+___block_descriptor_tmp
+_OBJC_IVAR_$_MWZoomingScrollView._captionView
+_OBJC_IVAR_$_MWZoomingScrollView._selectedButton
+_OBJC_IVAR_$_MWZoomingScrollView._playButton
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIScrollViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIScrollViewDelegate
+l_OBJC_PROTOCOL_$_MWTapDetectingImageViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_MWTapDetectingImageViewDelegate
+l_OBJC_PROTOCOL_$_MWTapDetectingViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_MWTapDetectingViewDelegate
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWZoomingScrollView.m
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWZoomingScrollView.h
+CGPointMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+CGRectMake
+UI_USER_INTERFACE_IDIOM
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDevice.h
+__destroy_helper_block_
+__copy_helper_block_
+__51-[MWZoomingScrollView setProgressFromNotification:]_block_invoke
+-[MWCaptionView initWithPhoto:]
+-[MWCaptionView sizeThatFits:]
+-[MWCaptionView setupCaption]
+-[MWCaptionView .cxx_destruct]
+_OBJC_IVAR_$_MWCaptionView._photo
+_OBJC_IVAR_$_MWCaptionView._label
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWCaptionView.m
+CGSizeMake
+-[MWGridViewController init]
+-[MWGridViewController viewDidLoad]
+-[MWGridViewController viewWillDisappear:]
+-[MWGridViewController viewWillLayoutSubviews]
+-[MWGridViewController viewDidLayoutSubviews]
+-[MWGridViewController adjustOffsetsAsRequired]
+-[MWGridViewController performLayout]
+-[MWGridViewController willAnimateRotationToInterfaceOrientation:duration:]
+-[MWGridViewController getColumns]
+-[MWGridViewController getMargin]
+-[MWGridViewController getGutter]
+-[MWGridViewController collectionView:numberOfItemsInSection:]
+-[MWGridViewController collectionView:cellForItemAtIndexPath:]
+-[MWGridViewController collectionView:didSelectItemAtIndexPath:]
+-[MWGridViewController collectionView:didEndDisplayingCell:forItemAtIndexPath:]
+-[MWGridViewController collectionView:layout:sizeForItemAtIndexPath:]
+-[MWGridViewController collectionView:layout:minimumInteritemSpacingForSectionAtIndex:]
+-[MWGridViewController collectionView:layout:minimumLineSpacingForSectionAtIndex:]
+-[MWGridViewController collectionView:layout:insetForSectionAtIndex:]
+-[MWGridViewController browser]
+-[MWGridViewController setBrowser:]
+-[MWGridViewController selectionMode]
+-[MWGridViewController setSelectionMode:]
+-[MWGridViewController initialContentOffset]
+-[MWGridViewController setInitialContentOffset:]
+_OBJC_IVAR_$_MWGridViewController._columns
+_OBJC_IVAR_$_MWGridViewController._columnsL
+_OBJC_IVAR_$_MWGridViewController._margin
+_OBJC_IVAR_$_MWGridViewController._gutter
+_OBJC_IVAR_$_MWGridViewController._marginL
+_OBJC_IVAR_$_MWGridViewController._gutterL
+_OBJC_IVAR_$_MWGridViewController._initialContentOffset
+_OBJC_IVAR_$_MWGridViewController._browser
+_OBJC_IVAR_$_MWGridViewController._selectionMode
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWGridViewController.m
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWGridViewController.h
+UIEdgeInsetsMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGeometry.h
+UIInterfaceOrientationIsPortrait
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h
+-[MWTapDetectingView init]
+-[MWTapDetectingView initWithFrame:]
+-[MWTapDetectingView touchesEnded:withEvent:]
+-[MWTapDetectingView handleSingleTap:]
+-[MWTapDetectingView handleDoubleTap:]
+-[MWTapDetectingView handleTripleTap:]
+-[MWTapDetectingView tapDelegate]
+-[MWTapDetectingView setTapDelegate:]
+-[MWTapDetectingView .cxx_destruct]
+_OBJC_IVAR_$_MWTapDetectingView._tapDelegate
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWTapDetectingView.m
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWTapDetectingView.h
+-[DALabeledCircularProgressView initWithFrame:]
+-[DALabeledCircularProgressView initWithCoder:]
+-[DALabeledCircularProgressView initializeLabel]
+-[DALabeledCircularProgressView progressLabel]
+-[DALabeledCircularProgressView setProgressLabel:]
+-[DALabeledCircularProgressView .cxx_destruct]
+_OBJC_IVAR_$_DALabeledCircularProgressView._progressLabel
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/DACircularProgress/DALabeledCircularProgressView.m
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/DACircularProgress/DALabeledCircularProgressView.h
++[DACircularProgressLayer needsDisplayForKey:]
+-[DACircularProgressLayer drawInContext:]
++[DACircularProgressView initialize]
++[DACircularProgressView layerClass]
+-[DACircularProgressView circularProgressLayer]
+-[DACircularProgressView init]
+-[DACircularProgressView didMoveToWindow]
+-[DACircularProgressView progress]
+-[DACircularProgressView setProgress:]
+-[DACircularProgressView setProgress:animated:]
+-[DACircularProgressView setProgress:animated:initialDelay:]
+-[DACircularProgressView setProgress:animated:initialDelay:withDuration:]
+-[DACircularProgressView animationDidStop:finished:]
+-[DACircularProgressView trackTintColor]
+-[DACircularProgressView setTrackTintColor:]
+-[DACircularProgressView progressTintColor]
+-[DACircularProgressView setProgressTintColor:]
+-[DACircularProgressView innerTintColor]
+-[DACircularProgressView setInnerTintColor:]
+-[DACircularProgressView roundedCorners]
+-[DACircularProgressView setRoundedCorners:]
+-[DACircularProgressView thicknessRatio]
+-[DACircularProgressView setThicknessRatio:]
+-[DACircularProgressView indeterminate]
+-[DACircularProgressView setIndeterminate:]
+-[DACircularProgressView clockwiseProgress]
+-[DACircularProgressView setClockwiseProgress:]
+-[DACircularProgressView indeterminateDuration]
+-[DACircularProgressView setIndeterminateDuration:]
+_OBJC_IVAR_$_DACircularProgressView._indeterminateDuration
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/DACircularProgress/DACircularProgressView.m
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/DACircularProgress/DACircularProgressView.h
++[MWPhoto photoWithImage:]
++[MWPhoto photoWithURL:]
++[MWPhoto photoWithAsset:targetSize:]
++[MWPhoto videoWithURL:]
+-[MWPhoto init]
+-[MWPhoto initWithImage:]
+-[MWPhoto initWithURL:]
+-[MWPhoto initWithAsset:targetSize:]
+-[MWPhoto initWithVideoURL:]
+-[MWPhoto setup]
+-[MWPhoto dealloc]
+-[MWPhoto setVideoURL:]
+-[MWPhoto getVideoURL:]
+___23-[MWPhoto getVideoURL:]_block_invoke
+-[MWPhoto underlyingImage]
+-[MWPhoto loadUnderlyingImageAndNotify]
+-[MWPhoto performLoadUnderlyingImageAndNotify]
+-[MWPhoto _performLoadUnderlyingImageAndNotifyWithWebURL:]
+___58-[MWPhoto _performLoadUnderlyingImageAndNotifyWithWebURL:]_block_invoke
+___copy_helper_block_.97
+___destroy_helper_block_.98
+___58-[MWPhoto _performLoadUnderlyingImageAndNotifyWithWebURL:]_block_invoke.101
+___58-[MWPhoto _performLoadUnderlyingImageAndNotifyWithWebURL:]_block_invoke_2
+___copy_helper_block_.102
+___destroy_helper_block_.103
+___copy_helper_block_.106
+___destroy_helper_block_.107
+-[MWPhoto _performLoadUnderlyingImageAndNotifyWithLocalFileURL:]
+___64-[MWPhoto _performLoadUnderlyingImageAndNotifyWithLocalFileURL:]_block_invoke
+___copy_helper_block_.119
+___destroy_helper_block_.120
+-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAssetsLibraryURL:]
+___68-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAssetsLibraryURL:]_block_invoke
+___68-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAssetsLibraryURL:]_block_invoke_2
+___copy_helper_block_.129
+___destroy_helper_block_.130
+___68-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAssetsLibraryURL:]_block_invoke.133
+___copy_helper_block_.134
+___destroy_helper_block_.135
+___copy_helper_block_.140
+___destroy_helper_block_.141
+-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAsset:targetSize:]
+___68-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAsset:targetSize:]_block_invoke
+___copy_helper_block_.152
+___destroy_helper_block_.153
+___68-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAsset:targetSize:]_block_invoke.158
+___68-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAsset:targetSize:]_block_invoke_2
+___copy_helper_block_.159
+___destroy_helper_block_.160
+___copy_helper_block_.162
+___destroy_helper_block_.163
+-[MWPhoto unloadUnderlyingImage]
+-[MWPhoto imageLoadingComplete]
+-[MWPhoto postCompleteNotification]
+-[MWPhoto cancelAnyLoading]
+-[MWPhoto cancelImageRequest]
+-[MWPhoto cancelVideoRequest]
+-[MWPhoto setUnderlyingImage:]
+-[MWPhoto caption]
+-[MWPhoto setCaption:]
+-[MWPhoto videoURL]
+-[MWPhoto emptyImage]
+-[MWPhoto setEmptyImage:]
+-[MWPhoto isVideo]
+-[MWPhoto setIsVideo:]
+-[MWPhoto image]
+-[MWPhoto setImage:]
+-[MWPhoto photoURL]
+-[MWPhoto setPhotoURL:]
+-[MWPhoto asset]
+-[MWPhoto setAsset:]
+-[MWPhoto assetTargetSize]
+-[MWPhoto setAssetTargetSize:]
+-[MWPhoto .cxx_destruct]
+_OBJC_IVAR_$_MWPhoto._assetRequestID
+_OBJC_IVAR_$_MWPhoto._assetVideoRequestID
+_OBJC_IVAR_$_MWPhoto._videoURL
+_OBJC_IVAR_$_MWPhoto._asset
+_OBJC_IVAR_$_MWPhoto._underlyingImage
+_OBJC_IVAR_$_MWPhoto._loadingInProgress
+_OBJC_IVAR_$_MWPhoto._image
+_OBJC_IVAR_$_MWPhoto._photoURL
+_OBJC_IVAR_$_MWPhoto._assetTargetSize
+___block_descriptor_tmp.100
+_OBJC_IVAR_$_MWPhoto._webImageOperation
+___block_descriptor_tmp.105
+___block_descriptor_tmp.109
+___block_descriptor_tmp.121
+___block_descriptor_tmp.132
+___block_descriptor_tmp.137
+___block_descriptor_tmp.142
+___block_descriptor_tmp.155
+___block_descriptor_tmp.161
+___block_descriptor_tmp.165
+_OBJC_IVAR_$_MWPhoto._caption
+_OBJC_IVAR_$_MWPhoto._emptyImage
+_OBJC_IVAR_$_MWPhoto._isVideo
+l_OBJC_PROTOCOL_$_MWPhoto
+l_OBJC_LABEL_PROTOCOL_$_MWPhoto
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWPhoto.m
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWPhoto.h
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWPhotoProtocol.h
+__68-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAsset:targetSize:]_block_invoke_2
+__68-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAsset:targetSize:]_block_invoke.158
+__68-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAsset:targetSize:]_block_invoke
+__68-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAssetsLibraryURL:]_block_invoke.133
+__68-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAssetsLibraryURL:]_block_invoke_2
+__68-[MWPhoto _performLoadUnderlyingImageAndNotifyWithAssetsLibraryURL:]_block_invoke
+__64-[MWPhoto _performLoadUnderlyingImageAndNotifyWithLocalFileURL:]_block_invoke
+__58-[MWPhoto _performLoadUnderlyingImageAndNotifyWithWebURL:]_block_invoke_2
+__58-[MWPhoto _performLoadUnderlyingImageAndNotifyWithWebURL:]_block_invoke.101
+__58-[MWPhoto _performLoadUnderlyingImageAndNotifyWithWebURL:]_block_invoke
+__23-[MWPhoto getVideoURL:]_block_invoke
+-[MWPhotoBrowser init]
+-[MWPhotoBrowser initWithDelegate:]
+-[MWPhotoBrowser initWithPhotos:]
+-[MWPhotoBrowser initWithCoder:]
+-[MWPhotoBrowser _initialisation]
+-[MWPhotoBrowser dealloc]
+-[MWPhotoBrowser releaseAllUnderlyingPhotos:]
+-[MWPhotoBrowser didReceiveMemoryWarning]
+-[MWPhotoBrowser viewDidLoad]
+-[MWPhotoBrowser performLayout]
+-[MWPhotoBrowser viewDidUnload]
+-[MWPhotoBrowser presentingViewControllerPrefersStatusBarHidden]
+-[MWPhotoBrowser viewWillAppear:]
+-[MWPhotoBrowser viewDidAppear:]
+-[MWPhotoBrowser viewWillDisappear:]
+-[MWPhotoBrowser willMoveToParentViewController:]
+-[MWPhotoBrowser didMoveToParentViewController:]
+-[MWPhotoBrowser setNavBarAppearance:]
+-[MWPhotoBrowser storePreviousNavBarAppearance]
+-[MWPhotoBrowser restorePreviousNavBarAppearance:]
+-[MWPhotoBrowser viewWillLayoutSubviews]
+-[MWPhotoBrowser layoutVisiblePages]
+-[MWPhotoBrowser shouldAutorotateToInterfaceOrientation:]
+-[MWPhotoBrowser supportedInterfaceOrientations]
+-[MWPhotoBrowser willRotateToInterfaceOrientation:duration:]
+-[MWPhotoBrowser willAnimateRotationToInterfaceOrientation:duration:]
+-[MWPhotoBrowser didRotateFromInterfaceOrientation:]
+-[MWPhotoBrowser currentIndex]
+-[MWPhotoBrowser reloadData]
+-[MWPhotoBrowser numberOfPhotos]
+-[MWPhotoBrowser photoAtIndex:]
+-[MWPhotoBrowser thumbPhotoAtIndex:]
+-[MWPhotoBrowser captionViewForPhotoAtIndex:]
+-[MWPhotoBrowser photoIsSelectedAtIndex:]
+-[MWPhotoBrowser setPhotoSelected:atIndex:]
+-[MWPhotoBrowser imageForPhoto:]
+-[MWPhotoBrowser loadAdjacentPhotosIfNecessary:]
+-[MWPhotoBrowser handleMWPhotoLoadingDidEndNotification:]
+-[MWPhotoBrowser tilePages]
+-[MWPhotoBrowser updateVisiblePageStates]
+-[MWPhotoBrowser isDisplayingPageForIndex:]
+-[MWPhotoBrowser pageDisplayedAtIndex:]
+-[MWPhotoBrowser pageDisplayingPhoto:]
+-[MWPhotoBrowser configurePage:forIndex:]
+-[MWPhotoBrowser dequeueRecycledPage]
+-[MWPhotoBrowser didStartViewingPageAtIndex:]
+-[MWPhotoBrowser frameForPagingScrollView]
+-[MWPhotoBrowser frameForPageAtIndex:]
+-[MWPhotoBrowser contentSizeForPagingScrollView]
+-[MWPhotoBrowser contentOffsetForPageAtIndex:]
+-[MWPhotoBrowser frameForToolbarAtOrientation:]
+-[MWPhotoBrowser frameForCaptionView:atIndex:]
+-[MWPhotoBrowser frameForSelectedButton:atIndex:]
+-[MWPhotoBrowser frameForPlayButton:atIndex:]
+-[MWPhotoBrowser scrollViewDidScroll:]
+-[MWPhotoBrowser scrollViewWillBeginDragging:]
+-[MWPhotoBrowser scrollViewDidEndDecelerating:]
+-[MWPhotoBrowser updateNavigation]
+-[MWPhotoBrowser jumpToPageAtIndex:animated:]
+-[MWPhotoBrowser gotoPreviousPage]
+-[MWPhotoBrowser gotoNextPage]
+-[MWPhotoBrowser showPreviousPhotoAnimated:]
+-[MWPhotoBrowser showNextPhotoAnimated:]
+-[MWPhotoBrowser selectedButtonTapped:]
+-[MWPhotoBrowser playButtonTapped:]
+-[MWPhotoBrowser indexForPlayButton:]
+-[MWPhotoBrowser playVideoAtIndex:]
+___35-[MWPhotoBrowser playVideoAtIndex:]_block_invoke
+___35-[MWPhotoBrowser playVideoAtIndex:]_block_invoke_2
+___copy_helper_block_.494
+___destroy_helper_block_.495
+-[MWPhotoBrowser _playVideo:atPhotoIndex:]
+-[MWPhotoBrowser videoFinishedCallback:]
+___40-[MWPhotoBrowser videoFinishedCallback:]_block_invoke
+___copy_helper_block_.525
+___destroy_helper_block_.526
+-[MWPhotoBrowser clearCurrentVideo]
+-[MWPhotoBrowser setVideoLoadingIndicatorVisible:atPageIndex:]
+-[MWPhotoBrowser positionVideoLoadingIndicator]
+-[MWPhotoBrowser showGridAnimated]
+-[MWPhotoBrowser showGrid:]
+___27-[MWPhotoBrowser showGrid:]_block_invoke
+___copy_helper_block_.559
+___destroy_helper_block_.560
+___27-[MWPhotoBrowser showGrid:]_block_invoke.562
+___copy_helper_block_.565
+___destroy_helper_block_.566
+-[MWPhotoBrowser hideGrid]
+___26-[MWPhotoBrowser hideGrid]_block_invoke
+___copy_helper_block_.577
+___destroy_helper_block_.578
+___26-[MWPhotoBrowser hideGrid]_block_invoke.580
+___copy_helper_block_.583
+___destroy_helper_block_.584
+-[MWPhotoBrowser setControlsHidden:animated:permanent:]
+___55-[MWPhotoBrowser setControlsHidden:animated:permanent:]_block_invoke
+___copy_helper_block_.592
+___destroy_helper_block_.593
+___55-[MWPhotoBrowser setControlsHidden:animated:permanent:]_block_invoke.595
+___55-[MWPhotoBrowser setControlsHidden:animated:permanent:]_block_invoke_2
+___copy_helper_block_.597
+___destroy_helper_block_.598
+___55-[MWPhotoBrowser setControlsHidden:animated:permanent:]_block_invoke.600
+-[MWPhotoBrowser prefersStatusBarHidden]
+-[MWPhotoBrowser preferredStatusBarStyle]
+-[MWPhotoBrowser preferredStatusBarUpdateAnimation]
+-[MWPhotoBrowser cancelControlHiding]
+-[MWPhotoBrowser hideControlsAfterDelay]
+-[MWPhotoBrowser areControlsHidden]
+-[MWPhotoBrowser hideControls]
+-[MWPhotoBrowser showControls]
+-[MWPhotoBrowser toggleControls]
+-[MWPhotoBrowser setCurrentPhotoIndex:]
+-[MWPhotoBrowser doneButtonPressed:]
+-[MWPhotoBrowser actionButtonPressed:]
+___38-[MWPhotoBrowser actionButtonPressed:]_block_invoke
+___copy_helper_block_.633
+___destroy_helper_block_.634
+___38-[MWPhotoBrowser actionButtonPressed:]_block_invoke.636
+___copy_helper_block_.639
+___destroy_helper_block_.640
+-[MWPhotoBrowser progressHUD]
+-[MWPhotoBrowser showProgressHUDWithMessage:]
+-[MWPhotoBrowser hideProgressHUD:]
+-[MWPhotoBrowser showProgressHUDCompleteMessage:]
+-[MWPhotoBrowser delegate]
+-[MWPhotoBrowser setDelegate:]
+-[MWPhotoBrowser zoomPhotosToFill]
+-[MWPhotoBrowser setZoomPhotosToFill:]
+-[MWPhotoBrowser displayNavArrows]
+-[MWPhotoBrowser setDisplayNavArrows:]
+-[MWPhotoBrowser displayActionButton]
+-[MWPhotoBrowser setDisplayActionButton:]
+-[MWPhotoBrowser displaySelectionButtons]
+-[MWPhotoBrowser setDisplaySelectionButtons:]
+-[MWPhotoBrowser alwaysShowControls]
+-[MWPhotoBrowser setAlwaysShowControls:]
+-[MWPhotoBrowser enableGrid]
+-[MWPhotoBrowser setEnableGrid:]
+-[MWPhotoBrowser enableSwipeToDismiss]
+-[MWPhotoBrowser setEnableSwipeToDismiss:]
+-[MWPhotoBrowser startOnGrid]
+-[MWPhotoBrowser setStartOnGrid:]
+-[MWPhotoBrowser autoPlayOnAppear]
+-[MWPhotoBrowser setAutoPlayOnAppear:]
+-[MWPhotoBrowser delayToHideElements]
+-[MWPhotoBrowser setDelayToHideElements:]
+-[MWPhotoBrowser customImageSelectedIconName]
+-[MWPhotoBrowser setCustomImageSelectedIconName:]
+-[MWPhotoBrowser customImageSelectedSmallIconName]
+-[MWPhotoBrowser setCustomImageSelectedSmallIconName:]
+-[MWPhotoBrowser activityViewController]
+-[MWPhotoBrowser setActivityViewController:]
+-[MWPhotoBrowser .cxx_destruct]
+_OBJC_IVAR_$_MWPhotoBrowser._delegate
+_OBJC_IVAR_$_MWPhotoBrowser._fixedPhotosArray
+_OBJC_IVAR_$_MWPhotoBrowser._isVCBasedStatusBarAppearance
+_OBJC_IVAR_$_MWPhotoBrowser._hasBelongedToViewController
+_OBJC_IVAR_$_MWPhotoBrowser._photoCount
+_OBJC_IVAR_$_MWPhotoBrowser._previousLayoutBounds
+_OBJC_IVAR_$_MWPhotoBrowser._currentPageIndex
+_OBJC_IVAR_$_MWPhotoBrowser._previousPageIndex
+_OBJC_IVAR_$_MWPhotoBrowser._currentVideoIndex
+_OBJC_IVAR_$_MWPhotoBrowser._displayActionButton
+_OBJC_IVAR_$_MWPhotoBrowser._displayNavArrows
+_OBJC_IVAR_$_MWPhotoBrowser._zoomPhotosToFill
+_OBJC_IVAR_$_MWPhotoBrowser._performingLayout
+_OBJC_IVAR_$_MWPhotoBrowser._rotating
+_OBJC_IVAR_$_MWPhotoBrowser._viewIsActive
+_OBJC_IVAR_$_MWPhotoBrowser._enableGrid
+_OBJC_IVAR_$_MWPhotoBrowser._startOnGrid
+_OBJC_IVAR_$_MWPhotoBrowser._enableSwipeToDismiss
+_OBJC_IVAR_$_MWPhotoBrowser._delayToHideElements
+_OBJC_IVAR_$_MWPhotoBrowser._visiblePages
+_OBJC_IVAR_$_MWPhotoBrowser._recycledPages
+_OBJC_IVAR_$_MWPhotoBrowser._photos
+_OBJC_IVAR_$_MWPhotoBrowser._thumbPhotos
+_OBJC_IVAR_$_MWPhotoBrowser._currentGridContentOffset
+_OBJC_IVAR_$_MWPhotoBrowser._didSavePreviousStateOfNavBar
+_OBJC_IVAR_$_MWPhotoBrowser._pagingScrollView
+_OBJC_IVAR_$_MWPhotoBrowser._toolbar
+_OBJC_IVAR_$_MWPhotoBrowser._previousButton
+_OBJC_IVAR_$_MWPhotoBrowser._nextButton
+_OBJC_IVAR_$_MWPhotoBrowser._actionButton
+_OBJC_IVAR_$_MWPhotoBrowser._doneButton
+_OBJC_IVAR_$_MWPhotoBrowser._previousViewControllerBackButton
+_OBJC_IVAR_$_MWPhotoBrowser._progressHUD
+_OBJC_IVAR_$_MWPhotoBrowser._viewHasAppearedInitially
+_OBJC_IVAR_$_MWPhotoBrowser._leaveStatusBarAlone
+_OBJC_IVAR_$_MWPhotoBrowser._previousStatusBarStyle
+_OBJC_IVAR_$_MWPhotoBrowser._pageIndexBeforeRotation
+_OBJC_IVAR_$_MWPhotoBrowser._autoPlayOnAppear
+_OBJC_IVAR_$_MWPhotoBrowser._previousNavBarBarTintColor
+_OBJC_IVAR_$_MWPhotoBrowser._previousNavBarTranslucent
+_OBJC_IVAR_$_MWPhotoBrowser._previousNavBarTintColor
+_OBJC_IVAR_$_MWPhotoBrowser._previousNavBarHidden
+_OBJC_IVAR_$_MWPhotoBrowser._previousNavBarStyle
+_OBJC_IVAR_$_MWPhotoBrowser._previousNavigationBarBackgroundImageDefault
+_OBJC_IVAR_$_MWPhotoBrowser._previousNavigationBarBackgroundImageLandscapePhone
+_OBJC_IVAR_$_MWPhotoBrowser._skipNextPagingScrollViewPositioning
+_OBJC_IVAR_$_MWPhotoBrowser._displaySelectionButtons
+_OBJC_IVAR_$_MWPhotoBrowser._gridController
+_OBJC_IVAR_$_MWPhotoBrowser._currentVideoPlayerViewController
+___block_descriptor_tmp.497
+___block_descriptor_tmp.527
+_OBJC_IVAR_$_MWPhotoBrowser._currentVideoLoadingIndicator
+_OBJC_IVAR_$_MWPhotoBrowser._gridPreviousRightNavItem
+___block_descriptor_tmp.561
+___block_descriptor_tmp.568
+___block_descriptor_tmp.579
+___block_descriptor_tmp.585
+_OBJC_IVAR_$_MWPhotoBrowser._alwaysShowControls
+_OBJC_IVAR_$_MWPhotoBrowser._statusBarShouldBeHidden
+___block_descriptor_tmp.594
+___block_descriptor_tmp.596
+___block_literal_global
+___block_descriptor_tmp.599
+___block_descriptor_tmp.601
+___block_literal_global.602
+_OBJC_IVAR_$_MWPhotoBrowser._controlVisibilityTimer
+___block_descriptor_tmp.635
+___block_descriptor_tmp.642
+_OBJC_IVAR_$_MWPhotoBrowser._customImageSelectedIconName
+_OBJC_IVAR_$_MWPhotoBrowser._customImageSelectedSmallIconName
+_OBJC_IVAR_$_MWPhotoBrowser._activityViewController
+_OBJC_IVAR_$_MWPhotoBrowser._gridPreviousLeftNavItem
+l_OBJC_PROTOCOL_$_UIActionSheetDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIActionSheetDelegate
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWPhotoBrowser.m
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWPhotoBrowserPrivate.h
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWPhotoBrowser.h
+__38-[MWPhotoBrowser actionButtonPressed:]_block_invoke.636
+__38-[MWPhotoBrowser actionButtonPressed:]_block_invoke
+__55-[MWPhotoBrowser setControlsHidden:animated:permanent:]_block_invoke.600
+__55-[MWPhotoBrowser setControlsHidden:animated:permanent:]_block_invoke_2
+__55-[MWPhotoBrowser setControlsHidden:animated:permanent:]_block_invoke.595
+__55-[MWPhotoBrowser setControlsHidden:animated:permanent:]_block_invoke
+__26-[MWPhotoBrowser hideGrid]_block_invoke.580
+__26-[MWPhotoBrowser hideGrid]_block_invoke
+__27-[MWPhotoBrowser showGrid:]_block_invoke.562
+__27-[MWPhotoBrowser showGrid:]_block_invoke
+__40-[MWPhotoBrowser videoFinishedCallback:]_block_invoke
+__35-[MWPhotoBrowser playVideoAtIndex:]_block_invoke_2
+__35-[MWPhotoBrowser playVideoAtIndex:]_block_invoke
+UIInterfaceOrientationIsLandscape
+-[MWGridCell initWithFrame:]
+-[MWGridCell dealloc]
+-[MWGridCell setGridController:]
+-[MWGridCell layoutSubviews]
+-[MWGridCell prepareForReuse]
+-[MWGridCell setPhoto:]
+-[MWGridCell displayImage]
+-[MWGridCell setSelectionMode:]
+-[MWGridCell setIsSelected:]
+-[MWGridCell selectionButtonPressed]
+-[MWGridCell touchesBegan:withEvent:]
+-[MWGridCell touchesEnded:withEvent:]
+-[MWGridCell touchesCancelled:withEvent:]
+-[MWGridCell hideLoadingIndicator]
+-[MWGridCell showLoadingIndicator]
+-[MWGridCell showImageFailure]
+-[MWGridCell hideImageFailure]
+-[MWGridCell setProgressFromNotification:]
+___42-[MWGridCell setProgressFromNotification:]_block_invoke
+-[MWGridCell handleMWPhotoLoadingDidEndNotification:]
+-[MWGridCell gridController]
+-[MWGridCell index]
+-[MWGridCell setIndex:]
+-[MWGridCell photo]
+-[MWGridCell selectionMode]
+-[MWGridCell isSelected]
+-[MWGridCell .cxx_destruct]
+_OBJC_IVAR_$_MWGridCell._imageView
+_OBJC_IVAR_$_MWGridCell._videoIndicator
+_OBJC_IVAR_$_MWGridCell._selectedButton
+_OBJC_IVAR_$_MWGridCell._loadingIndicator
+_OBJC_IVAR_$_MWGridCell._gridController
+_OBJC_IVAR_$_MWGridCell._photo
+_OBJC_IVAR_$_MWGridCell._selectionMode
+_OBJC_IVAR_$_MWGridCell._isSelected
+_OBJC_IVAR_$_MWGridCell._index
+_OBJC_IVAR_$_MWGridCell._loadingError
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWGridCell.m
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWGridCell.h
+__42-[MWGridCell setProgressFromNotification:]_block_invoke
++[UIImage(MWPhotoBrowser) imageForResourcePath:ofType:inBundle:]
++[UIImage(MWPhotoBrowser) clearImageWithSize:]
+/Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/UIImage+MWPhotoBrowser.m
+/Users/mac/Library/Caches/org.carthage.CarthageKit/DerivedData/MWPhotoBrowser/d28b65c79008790e15144954cac04204d832fa64/Build/Intermediates/MWPhotoBrowser.build/Release-iphoneos/MWPhotoBrowser.build/DerivedSources/MWPhotoBrowser_vers.c
