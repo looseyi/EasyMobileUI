@@ -19,7 +19,6 @@
 #import "EaseBubbleView+Voice.h"
 #import "EaseBubbleView+Video.h"
 #import "EaseBubbleView+File.h"
-#import "SnowFund-Swift.h"
 
 
 @interface EaseBubbleView()

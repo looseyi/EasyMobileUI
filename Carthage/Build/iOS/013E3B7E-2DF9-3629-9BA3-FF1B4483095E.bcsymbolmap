@@ -584,4 +584,4 @@ __42-[MWGridCell setProgressFromNotification:]_block_invoke
 +[UIImage(MWPhotoBrowser) imageForResourcePath:ofType:inBundle:]
 +[UIImage(MWPhotoBrowser) clearImageWithSize:]
 /Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/UIImage+MWPhotoBrowser.m
-/Users/mac/Library/Caches/org.carthage.CarthageKit/DerivedData/MWPhotoBrowser/d28b65c79008790e15144954cac04204d832fa64/Build/Intermediates/MWPhotoBrowser.build/Release-iphoneos/MWPhotoBrowser.build/DerivedSources/MWPhotoBrowser_vers.c
+/Users/mac/Library/Caches/org.carthage.CarthageKit/DerivedData/MWPhotoBrowser/2f982101ad6921d469b0e146e90df4ec7b0722be/Build/Intermediates/MWPhotoBrowser.build/Release-iphoneos/MWPhotoBrowser.build/DerivedSources/MWPhotoBrowser_vers.c

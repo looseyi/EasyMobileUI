@@ -3,7 +3,7 @@
   "commitish" : "1.0.0",
   "iOS" : [
     {
-      "hash" : "8d5e99fcc4012a623be8493f29631f4fc9b5ea3d65943529fbd439270c5f1dd4",
+      "hash" : "5594dd9056b81eaf6d67ca2b0fff392f20d91191ef4560ffd3b08cfc1924a455",
       "name" : "MBProgressHUD"
     }
   ]

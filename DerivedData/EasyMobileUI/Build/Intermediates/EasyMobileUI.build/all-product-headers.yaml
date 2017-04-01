@@ -8,6 +8,196 @@
       'contents': [
         {
           'type': 'file',
+          'name': "EaseBaseMessageCell.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/MessageCell/EaseBaseMessageCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseBubbleView+File.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/MessageCellBubbleView/EaseBubbleView+File.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseBubbleView+Image.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/MessageCellBubbleView/EaseBubbleView+Image.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseBubbleView+Location.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/MessageCellBubbleView/EaseBubbleView+Location.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseBubbleView+Text.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/MessageCellBubbleView/EaseBubbleView+Text.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseBubbleView+Video.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/MessageCellBubbleView/EaseBubbleView+Video.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseBubbleView+Voice.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/MessageCellBubbleView/EaseBubbleView+Voice.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseBubbleView.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/MessageCellBubbleView/EaseBubbleView.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseChatBarMoreView.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/toolbar/MoreView/EaseChatBarMoreView.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseChatToolbar.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/toolbar/EaseChatToolbar.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseChatToolbarItem.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/toolbar/EaseChatToolbarItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseChineseToPinyin.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/EaseChineseToPinyin.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseConversationCell.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversationList/EaseConversationCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseConversationListViewController.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/ViewController/EaseConversationListViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseConversationModel.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Model/EaseConversationModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseConvertToCommonEmoticonsHelper.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/EaseConvertToCommonEmoticonsHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseCustomMessageCell.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/MessageCell/EaseCustomMessageCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseEmoji.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/Emoji/EaseEmoji.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseEmojiEmoticons.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/Emoji/EaseEmojiEmoticons.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseEmotionEscape.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/Emoji/EaseEmotionEscape.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseEmotionManager.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/Emoji/EaseEmotionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseFaceView.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/toolbar/FaceView/EaseFaceView.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseFacialView.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/toolbar/FaceView/EaseFacialView.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseImageView.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/toolbar/EaseImageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseLocalDefine.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/EaseLocalDefine.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseLocationViewController.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/ViewController/EaseLocationViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseMessageCell.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/MessageCell/EaseMessageCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseMessageModel.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Model/EaseMessageModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseMessageReadManager.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/EaseMessageReadManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseMessageTimeCell.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/MessageCell/EaseMessageTimeCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseMessageViewController.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/ViewController/EaseMessageViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseRefreshTableViewController.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/ViewController/EaseRefreshTableViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseSDKHelper.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Helper/EaseSDKHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseTextView.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/conversation/toolbar/EaseTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseUserCell.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Views/contact/EaseUserCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseUserModel.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Model/EaseUserModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseUsersListViewController.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/ViewController/EaseUsersListViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "EaseViewController.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/ViewController/EaseViewController.h"
+        },
+        {
+          'type': 'file',
           'name': "EasyMobileUI-Swift.h",
           'external-contents': "/Users/mac/Desktop/EasyMobileUI/DerivedData/EasyMobileUI/Build/Products/Debug-iphonesimulator/EasyMobileUI.framework/Headers/EasyMobileUI-Swift.h"
         },
@@ -15,6 +205,61 @@
           'type': 'file',
           'name': "EasyMobileUI.h",
           'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EasyMobileUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "IConversationModel.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Model/IConversationModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "IMessageModel.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Model/IMessageModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "IModelCell.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Model/IModelCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "IModelChatCell.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Model/IModelChatCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "IUserModel.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Model/IUserModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDate+Category.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/Category/NSDate+Category.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDateFormatter+Category.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/Category/NSDateFormatter+Category.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+Valid.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/Category/NSString+Valid.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/Category/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIViewController+DismissKeyboard.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/Category/UIViewController+DismissKeyboard.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIViewController+HUD.h",
+          'external-contents': "/Users/mac/Desktop/EasyMobileUI/EasyMobileUI/EMUIKit/Util/Category/UIViewController+HUD.h"
         }
       ]
     },
