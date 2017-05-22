@@ -1,6 +1,0 @@
-framework module EasyMobileUI {
-  umbrella header "EasyMobileUI.h"
-
-  export *
-  module * { export * }
-}

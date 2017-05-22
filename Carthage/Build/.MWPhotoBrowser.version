@@ -1,9 +1,8 @@
 {
-  "xcodeVersion" : "Xcode 8.3\nBuild version 8E162",
   "commitish" : "2f982101ad6921d469b0e146e90df4ec7b0722be",
   "iOS" : [
     {
-      "hash" : "c75a0bdc2e0cda58b7cb54f5c3093bccea01b3eaafd43fe09e7254247d61ee43",
+      "hash" : "dd706cb474c60738e560f814af2155559057797bcff83c2720228c7030125a3e",
       "name" : "MWPhotoBrowser"
     }
   ]

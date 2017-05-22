@@ -1,9 +1,8 @@
 {
-  "xcodeVersion" : "Xcode 8.3\nBuild version 8E162",
   "commitish" : "4.0.0",
   "iOS" : [
     {
-      "hash" : "ebc9e4ca7f6e3879ca50804ba1f6bd8f8742db02eea296fe781ae7b4f2f95116",
+      "hash" : "5c86fdc59c0a09ca475a4db9234d61ac8fcdca42be9fd1755b3db193d5190ec4",
       "name" : "SDWebImage"
     }
   ]

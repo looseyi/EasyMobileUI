@@ -1,9 +1,8 @@
 {
-  "xcodeVersion" : "Xcode 8.3\nBuild version 8E162",
   "commitish" : "1.0.0",
   "iOS" : [
     {
-      "hash" : "5594dd9056b81eaf6d67ca2b0fff392f20d91191ef4560ffd3b08cfc1924a455",
+      "hash" : "2ff3f3afb341e119c10efae4a2c4eead3b484bfb0d3404afa343ded365832014",
       "name" : "MBProgressHUD"
     }
   ]

@@ -10,7 +10,7 @@ BCSymbolMap Version: 2.0
 -[MWTapDetectingImageView setTapDelegate:]
 -[MWTapDetectingImageView .cxx_destruct]
 _OBJC_IVAR_$_MWTapDetectingImageView._tapDelegate
-Apple LLVM version 8.1.0 (clang-802.0.38)
+Apple LLVM version 8.1.0 (clang-802.0.42)
 /Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWTapDetectingImageView.m
 /Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser
 /Users/mac/Desktop/EasyMobileUI/Carthage/Checkouts/MWPhotoBrowser/MWPhotoBrowser/Classes/MWTapDetectingImageView.h
