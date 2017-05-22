@@ -39,7 +39,6 @@ FOUNDATION_EXPORT const unsigned char EasyMobileUIVersionString[];
 
 #import <EasyMobileUI/NSDate+Category.h>
 #import <EasyMobileUI/NSString+Valid.h>
-#import <EasyMobileUI/UIImageView+EMWebCache.h>
 #import <EasyMobileUI/UIViewController+HUD.h>
 #import <EasyMobileUI/UIViewController+DismissKeyboard.h>
 #import <EasyMobileUI/EaseLocalDefine.h>
