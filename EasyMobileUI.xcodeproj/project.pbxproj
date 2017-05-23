@@ -106,6 +106,11 @@
 		856267321E902D6B003279BC /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8562672F1E902D6B003279BC /* SDWebImage.framework */; };
 		8562673C1E9039F6003279BC /* UIImage+GIF.h in Headers */ = {isa = PBXBuildFile; fileRef = 8562673A1E9039F6003279BC /* UIImage+GIF.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8562673D1E9039F6003279BC /* UIImage+GIF.m in Sources */ = {isa = PBXBuildFile; fileRef = 8562673B1E9039F6003279BC /* UIImage+GIF.m */; };
+		85BA605B1ED3C8EA00A48FF3 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85BA605A1ED3C8EA00A48FF3 /* UserNotifications.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		85BA605D1ED3C90F00A48FF3 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85BA605C1ED3C90F00A48FF3 /* MobileCoreServices.framework */; };
+		85BA605F1ED3C92300A48FF3 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85BA605E1ED3C92300A48FF3 /* CoreLocation.framework */; };
+		85BA60611ED3C93000A48FF3 /* Photos.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85BA60601ED3C93000A48FF3 /* Photos.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		85BA60631ED3C93700A48FF3 /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85BA60621ED3C93700A48FF3 /* AssetsLibrary.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -213,6 +218,11 @@
 		856267351E902ECA003279BC /* SDWebImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDWebImage.framework; path = Carthage/Build/iOS/SDWebImage.framework; sourceTree = "<group>"; };
 		8562673A1E9039F6003279BC /* UIImage+GIF.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+GIF.h"; sourceTree = "<group>"; };
 		8562673B1E9039F6003279BC /* UIImage+GIF.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+GIF.m"; sourceTree = "<group>"; };
+		85BA605A1ED3C8EA00A48FF3 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
+		85BA605C1ED3C90F00A48FF3 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		85BA605E1ED3C92300A48FF3 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		85BA60601ED3C93000A48FF3 /* Photos.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Photos.framework; path = System/Library/Frameworks/Photos.framework; sourceTree = SDKROOT; };
+		85BA60621ED3C93700A48FF3 /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -220,6 +230,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85BA60631ED3C93700A48FF3 /* AssetsLibrary.framework in Frameworks */,
+				85BA60611ED3C93000A48FF3 /* Photos.framework in Frameworks */,
+				85BA605F1ED3C92300A48FF3 /* CoreLocation.framework in Frameworks */,
+				85BA605D1ED3C90F00A48FF3 /* MobileCoreServices.framework in Frameworks */,
+				85BA605B1ED3C8EA00A48FF3 /* UserNotifications.framework in Frameworks */,
 				856267301E902D6B003279BC /* MBProgressHUD.framework in Frameworks */,
 				856267311E902D6B003279BC /* MWPhotoBrowser.framework in Frameworks */,
 				856267321E902D6B003279BC /* SDWebImage.framework in Frameworks */,
@@ -486,6 +501,11 @@
 		8562672C1E902D6B003279BC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				85BA60621ED3C93700A48FF3 /* AssetsLibrary.framework */,
+				85BA60601ED3C93000A48FF3 /* Photos.framework */,
+				85BA605E1ED3C92300A48FF3 /* CoreLocation.framework */,
+				85BA605C1ED3C90F00A48FF3 /* MobileCoreServices.framework */,
+				85BA605A1ED3C8EA00A48FF3 /* UserNotifications.framework */,
 				8562672D1E902D6B003279BC /* MBProgressHUD.framework */,
 				8562672E1E902D6B003279BC /* MWPhotoBrowser.framework */,
 				8562672F1E902D6B003279BC /* SDWebImage.framework */,
