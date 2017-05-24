@@ -1,8 +1,8 @@
 {
-  "commitish" : "bc02261c6ba7abf01ee95c7ce5b302755b047b6d",
+  "commitish" : "8644068beda55362ffe9676b6d23e1a4f27d8e7e",
   "iOS" : [
     {
-      "hash" : "baf6e40c3a06d067b1097177da8ea5296d5df5cba7c583ae1c84893c2848ff51",
+      "hash" : "ebc698c1d372f468a9ee22e37f12d438a992c5cf75f250a843567de6b3bf86c5",
       "name" : "MWPhotoBrowser"
     }
   ]
