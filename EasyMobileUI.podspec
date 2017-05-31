@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "EasyMobileUI"
-  s.version      = "0.1.0"
+  s.version      = "0.1.3"
   s.summary      = "简化安装环信iOS"
   s.description  = <<-DESC
     支持Carthage, 更新包依赖.
@@ -18,4 +18,5 @@ Pod::Spec.new do |s|
   s.source_files = 'EasyMobileUI/**/*.{h,m}'
   s.resource_bundles = 'EaseUIResource.bundle/*.png'
   s.exclude_files = "Classes/Exclude"
+  s.dependency = { :git => "https://github.com/looseyi/MWPhotoBrowser.git", :branch => "master"}
 end
