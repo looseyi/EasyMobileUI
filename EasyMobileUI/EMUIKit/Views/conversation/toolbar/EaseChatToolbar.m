@@ -103,7 +103,8 @@
     _backgroundImageView = [[UIImageView alloc] initWithFrame:self.bounds];
     _backgroundImageView.autoresizingMask = UIViewAutoresizingFlexibleHeight | UIViewAutoresizingFlexibleWidth;
     _backgroundImageView.backgroundColor = [UIColor clearColor];
-    _backgroundImageView.image = [[UIImage imageNamed:@"EaseUIResource.bundle/messageToolbarBg"] stretchableImageWithLeftCapWidth:0.5 topCapHeight:10];
+
+    _backgroundImageView.image = [EaseBundleImage(@"messageToolbarBg") stretchableImageWithLeftCapWidth:0.5 topCapHeight:10];
     [self addSubview:_backgroundImageView];
 
     //toolbar

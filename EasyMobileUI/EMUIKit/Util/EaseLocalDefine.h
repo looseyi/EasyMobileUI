@@ -17,6 +17,9 @@
 
 #define EaseBundlePath [[NSBundle bundleForClass: [EaseMessageCell class]] pathForResource:@"EaseUIResource" ofType:@"bundle"]
 
+#define EaseBundleImage(name) [UIImage imageNamed:(name) inBundle:[NSBundle bundleWithPath: EaseBundlePath] compatibleWithTraitCollection:nil]
+
+
 #define NSEaseLocalizedString(key, comment) \
 [[NSBundle bundleWithPath:EaseBundlePath] localizedStringForKey:(key) value:@"" table:nil]
 

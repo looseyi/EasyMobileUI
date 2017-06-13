@@ -136,7 +136,7 @@
                                                object:nil];
 
     [[EaseBaseMessageCell appearance] setSendBubbleBackgroundImage:[[UIImage imageNamed:@"account_onlineservice_dialog_orange"] stretchableImageWithLeftCapWidth:5 topCapHeight:35]];
-    [[EaseBaseMessageCell appearance] setRecvBubbleBackgroundImage:[[UIImage imageNamed:@"account_onlineservice_dialog_white"] stretchableImageWithLeftCapWidth:35 topCapHeight:35]];
+    [[EaseBaseMessageCell appearance] setRecvBubbleBackgroundImage:[[UIImage imageNamed:@"account_onlineservice_dialog_white"] stretchableImageWithLeftCapWidth:12 topCapHeight:35]];
 
     [[EaseBaseMessageCell appearance] setAvatarSize:40.f];
     [[EaseBaseMessageCell appearance] setAvatarCornerRadius:20.f];
